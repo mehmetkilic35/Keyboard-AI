@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kılıç</h1>
 <h3 align="center">👨🏻‍💻 Hello I am Mehmet. I am improving myself in many areas. These are mostly software,💻 and video editing. 🎥 I have many projects waiting to be realized, see you for now.</h3>
 
-- I do Twitch streams. I will be glad if you follow. [Twitch](https://twitch.tv/tecort)
-- I'm working on video editing through Upwork. [Upwork Freelancer](https://www.upwork.com/freelancers/mehmetk18) <p> </p>
 <h3 align="left">Desing:</h3>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)

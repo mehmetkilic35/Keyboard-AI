@@ -1,4 +1,37 @@
 # Keyboard-AI
+
+### How does it work
+
+- We are installing the [Anaconda](https://www.anaconda.com/) application on my computer.
+- Run the Anaconda command prompt and enter the following command lines.
+Install the necessary libraries.
+
+```
+import cv2
+import mediapipe as mp
+import time
+```
+- Open and run the Spyder editor with Anaconda Navigator.
+
+### Meanings of the Keys
+
+```
+box_keys = [
+    ("A", "S", "H"),
+    ("E", "D", "K"),
+    ("I", "B", "C"),
+    ("N", "C", "F"),
+    ("R", "U", "Z"),
+    ("L", "G", "O"),
+    ("K", "Y", "P"),
+    ("T", "O", "G"),
+    ("M", "S", "Q"),
+    ("U", "P", "X", "W"),
+    (" ",),  # Space key
+    ("DEL",),  # Delete key
+    ("CLR",)  # Clear key
+]
+```
  
 <h1 align="center">Hi 👋, I'm Mehmet Kılıç</h1>
 <h3 align="center">👨🏻‍💻 Hello I am Mehmet. I am improving myself in many areas. These are mostly software,💻 and video editing. 🎥 I have many projects waiting to be realized, see you for now.</h3>

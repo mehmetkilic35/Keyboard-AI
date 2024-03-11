@@ -32,7 +32,7 @@ box_keys = [
     ("CLR",)  # Clear key
 ]
 ```
- 
+ ---
 <h1 align="center">Hi 👋, I'm Mehmet Kılıç</h1>
 <h3 align="center">👨🏻‍💻 Hello, I'm Mehmet. I am open to self-improvement 💻 and I am constantly improving myself.</h3>
 
